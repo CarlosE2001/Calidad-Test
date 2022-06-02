@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inteligencia
+comment0.text=\n\ Clase\ que\ contiene\ la\ inteligencia\ artificial,\ se\ ecncarga\ de\ hacer\ movimientos\ de\ bacterias\n
+comment1.params=tablero\ gui
+comment1.target=Inteligencia(Tablero,\ Gui)
+comment1.text=\n\ Constructor\n\ @param\ tablero\ Objeto\ Tablero\n\ @param\ gui\ Obejto\ Interfaz\ Gr\u00E1fica\n
+comment2.params=
+comment2.target=void\ getBacterias()
+comment2.text=\n\ M\u00E9todo\ que\ pide\ la\ matriz\ de\ bacterias\ a\ la\ clase\ Tablero\ y\ la\ guarda\ en\ el\ atributo\ propio\ de\ la\ clase\n
+comment3.params=
+comment3.target=Bacteria\ escogerBacteria()
+comment3.text=\n\ Seleciona\ una\ bacteria\ por\ un\ m\u00E9todo\ random\n\ @return\ Bacteria\n
+comment4.params=
+comment4.target=Bacteria[]\ getBordes()
+comment4.text=\n\ M\u00E9todo\ que\ devuelve\ un\ arreglo\ con\ las\ bacteria\ que\ son\ bordes\ es\ decir\ que\ tienen\ por\ lo\ menos\ una\ bacteria\ de\ un\ color\ distinto\ de\ la\ propia\ en\ alguno\ de\ sus\ cuatro\ lados\n\ @return\ Bacteria[]\n
+comment5.params=x\ y
+comment5.target=boolean\ revisarBacteria(int,\ int)
+comment5.text=\n\ M\u00E9todo\ que\ revisa\ si\ una\ bacteria\ est\u00E1\ en\ el\ borde\ es\ decir\ que\ tiene\ por\ lo\ menos\ una\ bacteria\ de\ diferente\ color\ a\ ella\ misma\ en\ alguno\ de\ sus\ cuatro\ lados\n\ @param\ x\ columna\ en\ la\ matriz\n\ @param\ y\ fila\ en\ la\ matriz\n\ @return\ Boolean\ es\ borde\ o\ no\n
+numComments=6

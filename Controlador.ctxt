@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Controlador
+comment0.text=\n\ @Autor\ Carlos\ Espinoza\n\ @version\ 2/11/19\n\ \n\ Clase\ que\ se\ encarga\ de\ llamar\ a\ los\ objetos\ y\ descidir\ que\ hacer\ con\ los\ eventos\ de\ los\ botones\n
+comment1.params=
+comment1.target=Controlador()
+comment1.text=\n\ Constructor\ de\ la\ clase\ \n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ M\u00E9todo\ que\ inicia\ el\ programa\n\ @param\ args\n
+comment3.params=
+comment3.target=void\ iniciarExperto()
+comment3.text=\n\ M\u00E9todo\ que\ va\ a\ iniciar\ la\ clase\ Experto\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ Listener\ de\ los\ botones\n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\n\ Clase\ que\ crea\ y\ contiene\ la\ matriz\ de\ bacterias\n
+comment1.params=ancho\ largo
+comment1.target=Tablero(int,\ int)
+comment1.text=\n\ Contructor\ de\ la\ clase\ Tablero\n\ @param\ ancho\ ancho\ de\ la\ matriz\n\ @param\ largo\ largo\ de\ la\ matriz\n
+comment2.params=ancho\ largo
+comment2.target=void\ tableroInicial(int,\ int)
+comment2.text=\n\ M\u00E9todo\ que\ llena\ la\ matriz\ con\ bacterias\n\ @param\ ancho\ ancho\ de\ la\ matriz\n\ @param\ largo\ largo\ de\ la\ matriz\n
+comment3.params=
+comment3.target=Bacteria[][]\ getTablero()
+comment3.text=\n\ M\u00E9todo\ que\ devuelve\ la\ matriz\ de\ bacterias\n\ @return\ Bacterias[][]\n
+comment4.params=x\ y
+comment4.target=Bacteria\ getBacteria(int,\ int)
+comment4.text=\n\ M\u00E9todo\ que\ devuelve\ una\ bacteria\ en\ espec\u00EDfico\n\ @param\ x\ columna\ de\ la\ matriz\n\ @param\ y\ fila\ de\ la\ matriz\n\ @return\ Bacteria\n
+comment5.params=
+comment5.target=int[]\ getDimension()
+comment5.text=\n\ M\u00E9todo\ que\ devuelve\ un\ arreglo\ con\ las\ dimensiones\ de\ la\ matriz\n\ @return\ int[]\n
+comment6.params=
+comment6.target=void\ verMatriz()
+comment6.text=\n\ M\u00E9todo\ que\ fue\ utilizado\ para\ probar\ la\ matriz\ con\ JOptionPane,\ despliega\ una\ ventana\n
+numComments=7

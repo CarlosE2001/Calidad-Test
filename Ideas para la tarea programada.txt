@@ -1,0 +1,4 @@
+Ideas para la tarea programada:
+	-3 layouts grid flow otra más
+	-Buscar los Bordes -> los que tienen más de uno gris
+	 

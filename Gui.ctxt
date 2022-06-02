@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Gui
+comment0.text=\n\ Clase\ que\ contiene\ la\ interfaz\ gr\u00E1fica\n
+comment1.params=ancho\ alto\ controlador\ tablero
+comment1.target=Gui(int,\ int,\ Controlador,\ Tablero)
+comment1.text=\n\ Contructor\ de\ la\ clase\n\ @param\ ancho\ int\ ancho\ de\ la\ matriz\n\ @param\ alto\ int\ alto\ de\ la\ matriz\n\ @param\ controlador\ clase\ controlador\n\ @param\ tablero\ clase\ tablero\n
+comment2.params=puntajeVerde\ puntajeRojo
+comment2.target=void\ setPuntajes(int,\ int)
+comment2.text=\n\ M\u00E9todo\ que\ le\ asigna\ los\ valores\ a\ los\ JLabel\ de\ los\ puntajes\ \n\ @param\ puntajeVerde\ int\ puntaje\ de\ bacterias\ verdes\n\ @param\ puntajeRojo\ int\ puntaje\ de\ bacterias\ rojas\n
+comment3.params=
+comment3.target=void\ iniciarPanel()
+comment3.text=\n\ M\u00E9todo\ que\ inicia\ la\ ventana\ con\ las\ bacterias\ y\ los\ puntajes\ \n
+comment4.params=
+comment4.target=void\ jugar()
+comment5.params=colorGanador
+comment5.target=void\ ganador(int)
+comment6.params=bacterias
+comment6.target=void\ updateBotones(Bacteria[][])
+comment6.text=\n\ M\u00E9todo\ que\ se\ encarga\ de\ actualizar\ la\ ventana\n\ @param\ bacterias\ Bacterias[][]\ matriz\ de\ Bacterias\n
+numComments=7

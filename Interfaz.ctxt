@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Interfaz
+comment0.text=\n\ Clase\ que\ genera\ los\ mensajes\ que\ aparecen\ en\ pantalla,\ hereda\ los\ m\u00E9todos\ de\ la\ clase\ JOptionPane\n\ @author\ Carlos\ Espinoza\n\ @version\ 28/9/19\n
+comment1.params=
+comment1.target=Interfaz()
+comment1.text=\n\ Constructor\ de\ la\ clase\ interfaz\n
+comment2.params=mensaje
+comment2.target=void\ mensaje(java.lang.String)
+comment2.text=\n\ Funci\u00F3n\ que\ crea\ una\ ventana\ con\ un\ mensaje\ \n\ @param\ mensaje\ mensaje\ a\ ser\ presentado\n
+comment3.params=mensaje\ titulo
+comment3.target=void\ mensajeTitulo(java.lang.String,\ java.lang.String)
+comment3.text=\n\ Funci\u00F3n\ que\ permite\ mostrar\ un\ mensaje\ \n\ @param\ mensaje\ mensaje\ a\ ser\ mostrado\n\ @param\ titulo\ titulo\ de\ la\ ventana\n
+comment4.params=mensaje
+comment4.target=int\ getNumero(java.lang.String)
+comment4.text=\n\ Funci\u00F3n\ que\ muestra\ una\ ventana\ con\ input\ que\ va\ a\ recibir\ y\ convertir\ el\ resultado\ en\ un\ int\n\ @param\ mensaje\ mensaje\ que\ se\ muestra\n\ @return\ int\ con\ el\ numero\ que\ se\ digit\u00F3\n
+comment5.params=mensaje\ titulo
+comment5.target=int\ getNumeroTitulo(java.lang.String,\ java.lang.String)
+comment5.text=\n\ Funci\u00F3n\ que\ muestra\ una\ ventana\ con\ titulo\ e\ input\ que\ va\ a\ recibir\ y\ convertir\ el\ resultado\ en\ un\ int\n\ @param\ mensaje\ mensaje\ que\ se\ muestra\n\ @param\ titulo\ titulo\ de\ la\ ventana\n\ @return\ int\ con\ el\ numero\ que\ se\ digit\u00F3\n
+comment6.params=mensaje
+comment6.target=java.lang.String\ getString(java.lang.String)
+comment6.text=\n\ Funci\u00F3n\ que\ muestra\ una\ ventana\ con\ input\ que\ va\ a\ recibir\ una\ palabra\ o\ frase\n\ @param\ mensaje\ mensaje\ que\ se\ muestra\n\ @return\ String\ con\ la\ expresi\u00F3n\ que\ se\ digit\u00F3\n
+numComments=7
